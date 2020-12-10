@@ -16,6 +16,10 @@ First, enter their VATSIM ID \(ex: 1161585\) and then click "Next".
 
 On the next page, ensure the name is correct and fill out the remainder of the form and click "Submit". Upon submission, the vACC staff at their vACC will receive a notification that a new feedback was submitted.
 
+The user who submitted the feedback and staff can comment on the feedback in order to get more information. Staff can leave a PUBLIC comment which is visible to the user who submitted it or they can leave a PRIVATE comment which is only visible to staff members.
+
+Once a feedback is deemed completed, the staff can mark the feedback as closed. If a feedback is closed no more comments can be added.
+
 ## ATC Stats
 
 The stats page shows a list of ATC positions that have been online. If you are a staff member, there will be additional functions above the table. These functions are explained in the "vACC Staff" section of this manual.
