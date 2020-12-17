@@ -1,4 +1,0 @@
-# TeamSpeak Admin
-
-
-

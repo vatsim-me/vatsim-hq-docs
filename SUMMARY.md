@@ -49,7 +49,7 @@
   * [Policy Center](hq-menu/vacc-staff/policyprocedures.md)
   * [Support Tickets](hq-menu/vacc-staff/support-tickets.md)
   * [Tasks](hq-menu/vacc-staff/tasks.md)
-  * [TeamSpeak Admin](hq-menu/vacc-staff/teamspeak-admin.md)
+  * [Voting System](hq-menu/vacc-staff/voting-system.md)
 * [Instructors/Mentors](hq-menu/instructorsmentors/README.md)
   * [Introduction](hq-menu/instructorsmentors/introduction.md)
   * [Add My Time](hq-menu/instructorsmentors/add-my-time.md)
