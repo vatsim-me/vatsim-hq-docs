@@ -40,7 +40,7 @@
   * [Policy Center](hq-menu/division-staff/policyprocedures.md)
   * [Support Tickets](hq-menu/division-staff/support-tickets.md)
   * [Tasks](hq-menu/division-staff/tasks.md)
-  * [TeamSpeak Admin](hq-menu/division-staff/teamspeak-admin.md)
+  * [Voting System](hq-menu/division-staff/voting-system.md)
 * [vACC Staff](hq-menu/vacc-staff/README.md)
   * [ATC Training](hq-menu/vacc-staff/atc-training.md)
   * [Exam Center](hq-menu/vacc-staff/exam-center.md)
